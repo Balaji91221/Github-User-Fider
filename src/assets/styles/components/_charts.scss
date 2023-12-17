@@ -1,0 +1,8 @@
+.chartContainer > div {
+  margin: auto !important;
+}
+@media screen and (max-width: 384px) {
+  .chartContainer {
+    display: none;
+  }
+}
